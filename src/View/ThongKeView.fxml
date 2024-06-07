@@ -43,7 +43,7 @@
                   </ImageView>
                </children>
             </AnchorPane>
-            <AnchorPane layoutX="614.0" layoutY="30.0" prefHeight="380.0" prefWidth="562.0" style="-fx-background-color: #CEF6F5; -fx-border-color: gray; -fx-border-radius: 30; -fx-background-radius: 30;" styleClass="form">
+            <AnchorPane layoutX="614.0" layoutY="30.0" prefHeight="380.0" prefWidth="562.0" style="-fx-background-color: #5882FA; -fx-border-color: gray; -fx-border-radius: 30; -fx-background-radius: 30;" styleClass="form">
                <children>
                   <Label alignment="CENTER" layoutY="10.0" prefHeight="42.0" prefWidth="557.0" text="Số nhân khẩu trong" textAlignment="CENTER">
                      <font>

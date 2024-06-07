@@ -1,7 +1,7 @@
 .background
 {
     -fx-background-color: white;
-    -fx-border-color:gray;
+    -fx-border-color:#E6E6E6;
     -fx-border-radius:30px;
     -fx-background-radius: 30px;
 }
@@ -16,7 +16,7 @@
     -fx-border-width: 0.5px;
 }
 .table .column-header {
-    -fx-background-color: #CEF6F5;
+    -fx-background-color: #5882FA;
     -fx-text-color: #ffffff;
     -fx-border-color: #cccccc;
     -fx-border-width: 0.5px;
