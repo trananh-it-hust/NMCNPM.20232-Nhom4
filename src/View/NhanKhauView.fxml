@@ -163,7 +163,7 @@
                         <Cursor fx:constant="HAND" />
                      </cursor>
                   </Button>
-                  <CheckBox fx:id="isChuHoCBox" layoutX="395.0" layoutY="15.0" mnemonicParsing="false" prefHeight="30.0" prefWidth="160.0" styleClass="field" text="Là chủ hộ" textFill="#faf6f6" />
+                  <CheckBox fx:id="isChuHoCBox" layoutX="395.0" layoutY="15.0" mnemonicParsing="false" prefHeight="30.0" prefWidth="160.0" styleClass="field" text="Là chủ hộ" />
                   <TextField fx:id="addQuanHeText" layoutX="395.0" layoutY="55.0" prefHeight="30.0" prefWidth="160.0" promptText="Quan hệ với chủ hộ" styleClass="field">
                      <font>
                         <Font size="15.0" />
@@ -211,7 +211,7 @@
                         <Cursor fx:constant="HAND" />
                      </cursor>
                   </Button>
-                  <CheckBox fx:id="isChuHoCBox1" layoutX="395.0" layoutY="15.0" mnemonicParsing="false" prefHeight="30.0" prefWidth="160.0" styleClass="field" text="Là chủ hộ" textFill="#faf6f6" />
+                  <CheckBox fx:id="isChuHoCBox1" layoutX="395.0" layoutY="15.0" mnemonicParsing="false" prefHeight="30.0" prefWidth="160.0" styleClass="field" text="Là chủ hộ" />
                   <TextField fx:id="updateQuanHeText" layoutX="395.0" layoutY="55.0" prefHeight="30.0" prefWidth="160.0" promptText="Quan hệ với chủ hộ" styleClass="field">
                      <font>
                         <Font size="15.0" />
